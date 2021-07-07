@@ -15,3 +15,6 @@ Because of this, HACS will be in a "Starting up" state until it's done fetching 
 
 Which in return will cause the initial startup of HACS to take over 1 hour to finish.
 :::
+
+
+https://github.com/hacs/integration/issues/1864#issuecomment-865450376
